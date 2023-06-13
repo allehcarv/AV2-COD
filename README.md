@@ -29,7 +29,7 @@
 
 ## :pushpin: Mockup/Storyboard
 
-<img scr = ![bloconota](https://github.com/allehcarv/AV2-COD/assets/118816913/88dcf208-a7fd-42d7-a76d-1101f2d6d8f5)>
+![bloconota](https://github.com/allehcarv/AV2-COD/assets/118816913/88dcf208-a7fd-42d7-a76d-1101f2d6d8f5)
 
 
  ## :pushpin: Estrutura de Dados
